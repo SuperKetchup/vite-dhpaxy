@@ -26,8 +26,8 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'Example', link: '/example' },
-          // ...
+          { text: 'TestCase', link: '/example' },
+          { text: 'CLIENT-ACTI0N-DISC0VERY-TC1', link: '/example' },
         ],
       },
     ],
